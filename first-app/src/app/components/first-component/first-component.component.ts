@@ -40,7 +40,7 @@ varChange(){
   this.variable++;
 }
 
-varChangeMenor() {
+varChangeMinus() {
   this.variable--;
 }
 }
